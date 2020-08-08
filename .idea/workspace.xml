@@ -7,6 +7,13 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -18,10 +25,42 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../elemeAdmin" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
-  <component name="RunManager">
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="elemeAdmin.src.com.neusoft.view.impl" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="elemeAdmin.src.utils" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Github\elemeAdmin\elmadmin\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ElmAdmin">
+    <configuration name="ElmAdmin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="elemeAdmin.src.com.neusoft.ElmAdmin" />
+      <module name="elmadmin" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="elemeAdmin.src.com.neusoft.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.company.Main" />
       <module name="elmadmin" />
@@ -32,6 +71,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.ElmAdmin" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ElmAdmin" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -55,11 +103,43 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1596770253016</updated>
-      <workItem from="1596770256162" duration="598000" />
+      <workItem from="1596770256162" duration="15823000" />
+      <workItem from="1596871024203" duration="1861000" />
+      <workItem from="1596875383628" duration="140000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1049" y="225" key="#com.intellij.ide.util.MemberChooser" timestamp="1596865934109">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="1049" y="225" key="#com.intellij.ide.util.MemberChooser/0.0.1536.834@0.0.1536.834" timestamp="1596865934109" />
+    <state x="183" y="178" key="FileChooserDialogImpl" timestamp="1596875421599">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="183" y="178" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1596875421599" />
+    <state width="1220" height="214" key="GridCell.Tab.0.bottom" timestamp="1596870963425">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1220" height="214" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1596870963425" />
+    <state width="1220" height="214" key="GridCell.Tab.0.center" timestamp="1596870963425">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1220" height="214" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1596870963425" />
+    <state width="1220" height="214" key="GridCell.Tab.0.left" timestamp="1596870963425">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1220" height="214" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1596870963425" />
+    <state width="1220" height="214" key="GridCell.Tab.0.right" timestamp="1596870963425">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1220" height="214" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1596870963425" />
+    <state x="155" y="66" key="new project wizard" timestamp="1596871183092">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="155" y="66" key="new project wizard/0.0.1536.834@0.0.1536.834" timestamp="1596871183092" />
   </component>
 </project>
